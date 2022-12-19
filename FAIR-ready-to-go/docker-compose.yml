@@ -58,7 +58,7 @@ services:
   ldp:
     image: markw/ldp_server:2022
     volumes:
-      - ./ldp:/database
+      - $PWD/ldp:/database
     ports:
       - 1111:1111
       - 8890:8890
