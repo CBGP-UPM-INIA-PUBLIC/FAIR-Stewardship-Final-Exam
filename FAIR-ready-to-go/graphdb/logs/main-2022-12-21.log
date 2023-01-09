@@ -1,0 +1,13 @@
+[INFO ] 2022-12-21 13:37:56,832 [Thread-3 | c.o.g.s.GraphDB] Stopping GraphDB.
+[INFO ] 2022-12-21 13:40:21,322 [main | c.o.g.Config] Using 'jar:file:/opt/graphdb/dist/lib/graphdb-application-common-10.1.0.jar!/com/ontotext/graphdb/logback.xml' as logback's configuration file
+[INFO ] 2022-12-21 13:40:24,473 [main | c.o.g.s.GraphDB] Starting GraphDB in workbench mode.
+[INFO ] 2022-12-21 13:41:21,554 [main | c.o.g.Config] GraphDB Home directory: /opt/graphdb/home
+[INFO ] 2022-12-21 13:41:21,561 [main | c.o.g.Config] GraphDB Config directory: /opt/graphdb/home/conf
+[INFO ] 2022-12-21 13:41:21,562 [main | c.o.g.Config] GraphDB Data directory: /opt/graphdb/home/data
+[INFO ] 2022-12-21 13:41:21,566 [main | c.o.g.Config] GraphDB Work directory: /opt/graphdb/home/work
+[INFO ] 2022-12-21 13:41:21,568 [main | c.o.g.Config] GraphDB Logs directory: /opt/graphdb/home/logs
+[INFO ] 2022-12-21 13:41:25,673 [main | c.o.g.r.s.SecurityUtil] Cluster gRPC server security is disabled
+[INFO ] 2022-12-21 13:41:26,488 [main | c.o.f.c.s.r.GraphDBRpcServer] Started gRPC server on port 7300 successfully
+[INFO ] 2022-12-21 13:41:34,640 [main | c.o.g.s.GraphDB] Started GraphDB in workbench mode at port 7200.
+[INFO ] 2022-12-21 13:41:37,360 [http-nio-7200-exec-1 | o.e.r.h.s.r.TupleQueryResultView] Request for query 3392903 is finished
+[INFO ] 2022-12-21 13:42:25,312 [Thread-3 | c.o.g.s.GraphDB] Stopping GraphDB.
